@@ -21,6 +21,7 @@
     "webpack": "^5.89.0"
   },
   "scripts": {
-    "test": "./node_modules/.bin/karma start --browsers ChromeHeadless --single-run"
+    "test": "./node_modules/.bin/karma start --browsers ChromeHeadless --single-run",
+    "build": "webpack"
   }
 }
