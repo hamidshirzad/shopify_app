@@ -13,3 +13,4 @@ test/.generated/*
 /test/dummy/tmp/*
 /node_modules/
 .byebug_history
+.env
